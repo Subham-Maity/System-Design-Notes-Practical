@@ -1,0 +1,2 @@
+- 1.SOLID Design Principles
+   - 1.1 Single Responsibility Principle - (Check Here)[https://codexam.notion.site/1-1-Single-Responsibility-Principle-7a216a570d564aeb84ae4c642196d368]
