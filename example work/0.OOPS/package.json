@@ -1,0 +1,15 @@
+{
+  "name": "0.oops",
+  "version": "1.0.0",
+  "description": "1. **Initialize the project**:\r     - Open your terminal or command prompt and navigate to the directory where you want to create your project.\r     - Run the following command to initialize a new Node.js project and create a `package.json` file:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
