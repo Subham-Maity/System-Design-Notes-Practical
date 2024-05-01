@@ -49,6 +49,8 @@
       ```
       node dist/Order.js
       ```
+      `node class.js`
+      `node constructor-functions.js`
 
     - If your TypeScript code is intended to run in a web browser, you'll need to create an HTML file, include the compiled JavaScript file(s) in the HTML file, and open the HTML file in a web browser.
 
