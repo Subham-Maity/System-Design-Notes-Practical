@@ -10,3 +10,4 @@
     - 2.2 Capacity Planning and Estimation - [Check Here](https://codexam.notion.site/2-2-Capacity-Planning-and-Estimation-734f72a872294a1e8c2d0620d191a936?pvs=25)
     - 2.3 Functional vs Non-Functional Requirements - [Check Here](https://codexam.notion.site/2-3-Functional-vs-Non-Functional-Requirements-cb9e6e7a2a9847b68d890b9ed066f6f6)
     - 2.4 HTTP Long Polling vs Server Sent Events vs WebSockets - [Check Here](https://codexam.notion.site/2-4-HTTP-Long-Polling-vs-Server-Sent-Events-vs-WebSockets-af3c3e3f47574027a9e081b4e47b2181?pvs=25)
+   - 2.5 What are http and HTTPS protocols? - [Check Here](https://codexam.notion.site/2-5-What-are-http-and-HTTPS-protocols-781cac1fdc1d4e3c829bb0b278e4bbb1)
