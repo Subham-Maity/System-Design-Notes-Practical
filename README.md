@@ -11,3 +11,5 @@
     - 2.3 Functional vs Non-Functional Requirements - [Check Here](https://codexam.notion.site/2-3-Functional-vs-Non-Functional-Requirements-cb9e6e7a2a9847b68d890b9ed066f6f6)
     - 2.4 HTTP Long Polling vs Server Sent Events vs WebSockets - [Check Here](https://codexam.notion.site/2-4-HTTP-Long-Polling-vs-Server-Sent-Events-vs-WebSockets-af3c3e3f47574027a9e081b4e47b2181?pvs=25)
    - 2.5 What are http and HTTPS protocols? - [Check Here](https://codexam.notion.site/2-5-What-are-http-and-HTTPS-protocols-781cac1fdc1d4e3c829bb0b278e4bbb1)
+   - 2.6 TCP/IP Protocol - [Check Here](https://codexam.notion.site/2-6-TCP-IP-Protocol-fabde03a569a49f3919b93f33a4d4bc7?pvs=25)
+   - 2.7 What Happens When You Enter “YouTube.com”? - [Check Here](https://codexam.notion.site/2-7-What-Happens-When-You-Enter-youtube-com-429c7ce443254249b0969350f38db1f1?pvs=25)
