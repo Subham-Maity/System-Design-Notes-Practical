@@ -2,10 +2,10 @@
 0. JS
    - 0.1 Lexical scoping and Closure - [Check Here](./1.%20DEV_INTERVIEW/js/Lexical%20scoping%20and%20Closure/README.md)
    - 0.2 Use of double parenthesis  ()()-[Check Here](./1.%20DEV_INTERVIEW/js/Use%20of%20double%20parenthesis%20%20()()/README.md)
+   - 0.3 Execution context & Call Stack -[Check Here](./1.%20DEV_INTERVIEW/js/Execution%20context%20&%20Call%20Stack/README.md)
 ## 2. Core
 0. OOPS
-    - 0.1 Class - [Check Here](https://codexam.notion.site/0-1-Classes-6f789ce839824197bfa8894149bef817?pvs=25)
-   - 0.2 Constructor Functions - [Check Here](https://codexam.notion.site/0-2-Constructor-Functions-a834ba37dab44c599f30b625789d07d9?pvs=25)
+    - Classes, Constructor Functions, Inheritance, Extends vs Implements, Overriding and Extending Inherited Properties, Deadly Diamond of Death, Encapsulation(Access Modifiers, Instance Variables with Access Modifiers, Setters and Getters), Polymorphism - [Check Here](./2.CORE/0.OOPS/README.md)
 1. SOLID Design Principles
     - 1.1 Single Responsibility Principle - [Check Here](https://codexam.notion.site/1-1-Single-Responsibility-Principle-7a216a570d564aeb84ae4c642196d368)
     - 1.2 Open/Closed Principle - [Check Here](https://codexam.notion.site/1-2-Open-Closed-Principle-9d3af70db1d847e38457ce7415929a41?pvs=25)

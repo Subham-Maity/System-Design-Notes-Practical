@@ -15,4 +15,3 @@ class Person {
 
 const john = new Person('John', 30);
 john.greet();
-// Output: Hello, my name is John, and I'm 30 years old.
