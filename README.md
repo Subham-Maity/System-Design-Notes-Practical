@@ -1,3 +1,8 @@
+## 1.Dev Interview
+0. JS
+   - 0.1 Lexical scoping and Closure - [Check Here](./1.%20DEV_INTERVIEW/js/Lexical%20scoping%20and%20Closure/README.md)
+   - 0.2 Use of double parenthesis  ()()-[Check Here](./1.%20DEV_INTERVIEW/js/Use%20of%20double%20parenthesis%20%20()()/README.md)
+## 2. Core
 0. OOPS
     - 0.1 Class - [Check Here](https://codexam.notion.site/0-1-Classes-6f789ce839824197bfa8894149bef817?pvs=25)
    - 0.2 Constructor Functions - [Check Here](https://codexam.notion.site/0-2-Constructor-Functions-a834ba37dab44c599f30b625789d07d9?pvs=25)

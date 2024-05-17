@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<button id="orange">Orange</button>
+<button id="green">Green</button>
+</body>
+<script src="index.js"></script>
+<script>
+    function clickHandler(color){
+        // document.body.style.backgroundColor = `green`
+       return  function (){
+            document.body.style.backgroundColor = `${color}`
+        }
+    }
+
+    document.getElementById('orange').onclick = clickHandler(`orange`)
+    document.getElementById('green').onclick = clickHandler(`green`)
+
+</script>
+</html>
