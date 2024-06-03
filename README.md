@@ -5,7 +5,7 @@
    - 0.3 Execution context & Call Stack -[Check Here](./1.%20DEV_INTERVIEW/js/Execution%20context%20&%20Call%20Stack/README.md)
 ## 2. Core
 0. OOPS
-    - Classes, Constructor Functions, Inheritance, Extends vs Implements, Overriding and Extending Inherited Properties, Deadly Diamond of Death, Encapsulation(Access Modifiers, Instance Variables with Access Modifiers, Setters and Getters), Polymorphism - [Check Here](./2.CORE/0.OOPS/README.md)
+    - Classes, Constructor Functions, Inheritance, Extends vs Implements, Overriding and Extending Inherited Properties, Deadly Diamond of Death, Encapsulation(Access Modifiers, Instance Variables with Access Modifiers, Setters and Getters), Polymorphism - [Check Here](2.CORE/0.OOPS/js/README.md)
 1. SOLID Design Principles
     - 1.1 Single Responsibility Principle - [Check Here](https://codexam.notion.site/1-1-Single-Responsibility-Principle-7a216a570d564aeb84ae4c642196d368)
     - 1.2 Open/Closed Principle - [Check Here](https://codexam.notion.site/1-2-Open-Closed-Principle-9d3af70db1d847e38457ce7415929a41?pvs=25)
