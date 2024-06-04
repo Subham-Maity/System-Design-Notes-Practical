@@ -257,4 +257,47 @@ CREATE TABLE orders (
 ```
 In this example, the `order_id` column is set as the PRIMARY KEY, ensuring that each order has a unique `order_id` value and that the `order_id` column cannot have null values.
 
-These constraints are essential for maintaining data integrity and consistency in a database. They help prevent duplicate or invalid data from being inserted or updated in the tables.
+
+- FOREIGN KEY Constraint:
+   The FOREIGN KEY constraint is used to prevent actions that would destroy links between tables. It ensures referential integrity by establishing a relationship between two tables.
+
+Example:
+```sql
+CREATE TABLE temp (
+    cust_id INT,
+    FOREIGN KEY (cust_id) REFERENCES customer(id)
+);
+```
+In this example, the `cust_id` column in the `temp` table is a FOREIGN KEY that references the `id` column in the `customer` table. This constraint ensures that the values in `cust_id` must exist in the `id` column of the `customer` table, or the operation will be prevented.
+
+- DEFAULT Constraint:
+   The DEFAULT constraint is used to set a default value for a column when no value is provided during an INSERT operation.
+
+Example:
+```sql
+salary INT DEFAULT 25000
+```
+In this example, if no value is specified for the `salary` column during an INSERT statement, it will automatically be assigned the default value of `25000`.
+
+- CHECK Constraint:
+   The CHECK constraint is used to limit the values allowed in a column based on a specified condition.
+
+Example 1:
+```sql
+CREATE TABLE city (
+    id INT PRIMARY KEY,
+    city VARCHAR(50),
+    age INT,
+    CONSTRAINT age_check CHECK (age >= 18 AND city = 'Delhi')
+);
+```
+In this example, the `age_check` constraint ensures that the `age` column must be greater than or equal to 18, and the `city` column must be 'Delhi'.
+
+Example 2:
+```sql
+CREATE TABLE newTab (
+    age INT CHECK (age >= 18)
+);
+```
+In this example, the CHECK constraint ensures that the `age` column must have a value greater than or equal to 18.
+
