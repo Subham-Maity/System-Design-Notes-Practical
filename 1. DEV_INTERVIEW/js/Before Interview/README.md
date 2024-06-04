@@ -4,11 +4,11 @@
 2. What is the difference between var, let, and const? 
 > Variables are used to store data. 
 
-| Keyword | Scope | Re-declaration | Re-assignment | Initialization                                                              |
-|---|---|---|---|-----------------------------------------------------------------------------|
-| var | Function/Global | Yes | Yes | Can be accessed before declaration (hoisted with default value `undefined`) |
-| let | Block | No | Yes | Not hoisted, throws error if accessed before declaration                    |
-| const | Block | No | No | Not hoisted, throws error if accessed before declaration                    
+| Keyword | Scope           | Re-declaration | Re-assignment | Initialization                                                              |
+|---------|-----------------|----------------|---------------|-----------------------------------------------------------------------------|
+| var     | Function/Global | Yes            | Yes           | Can be accessed before declaration (hoisted with default value `undefined`) |
+| let     | Block           | No             | Yes           | Not hoisted, throws error if accessed before declaration                    |
+| const   | Block           | No             | No            | Not hoisted, throws error if accessed before declaration                    |
 
 - var
 
